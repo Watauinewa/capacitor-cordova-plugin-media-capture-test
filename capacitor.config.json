@@ -1,0 +1,7 @@
+{
+  "appId": "org.videocapture.app",
+  "appName": "videocapture",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
