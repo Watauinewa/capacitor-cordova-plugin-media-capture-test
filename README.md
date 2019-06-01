@@ -1,3 +1,5 @@
+# Minimal cordova-plugin-media-capture test with capacitor
+
 # build && run
 ```
 npm install
